@@ -1,2 +1,8 @@
-coverage.out
 .DS_Store
+jwks-server
+totally_not_my_privateKeys.db
+*.db-shm
+*.db-wal
+coverage.out
+server_backup.go.txt
+server_test_backup.txt
